@@ -20,8 +20,8 @@ Padrões de projeto diferem por sua complexidade, nível de detalhe e grau de ap
 ## Catálogo de padrões
 
 ### Padrões Criacionais
-- [Padrão Singleton](https://github.com/MateusDebut/Design-Patterns/tree/main/singleton)
-- [Padrão Abstract Factory](https://github.com/MateusDebut/Design-Patterns/tree/main/abstract-factory)
-- [Padrão Builder](https://github.com/MateusDebut/Design-Patterns/tree/main/builder)
-- [Padrão Factory Method](https://github.com/MateusDebut/Design-Patterns/tree/main/factory-method)
-- [Padrão Prototype](https://github.com/MateusDebut/Design-Patterns/tree/main/prototype)
+- [Padrão Singleton](https://github.com/MateusDebut/Design-Patterns/tree/main/padroes-criacionais/singleton)
+- [Padrão Abstract Factory](https://github.com/MateusDebut/Design-Patterns/tree/main/padroes-criacionais/abstract-factory)
+- [Padrão Builder](https://github.com/MateusDebut/Design-Patterns/tree/main/padroes-criacionais/builder)
+- [Padrão Factory Method](https://github.com/MateusDebut/Design-Patterns/tree/main/padroes-criacionais/factory-method)
+- [Padrão Prototype](https://github.com/MateusDebut/Design-Patterns/tree/main/padroes-criacionais/prototype)
